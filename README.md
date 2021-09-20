@@ -6,9 +6,9 @@ Steps to setup an environment for serverless infrastructure-
 
 ```
 
-1.	Create an Amazon DynamoDB Table
-2.	Create IAM Role
-3.	Create lambda function for handling requests
-4.	Validate your setup
+1. Create an Amazon DynamoDB Table
+2. Create IAM Role
+3. Create lambda function for handling requests
+4. Validate your setup
 
 ```
