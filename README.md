@@ -2,7 +2,7 @@
 
 AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers, creating workload-aware cluster scaling logic, maintaining event integrations, or managing runtimes.
 
-Steps to setup an environment for serverless compute-
+Steps to setup an environment for serverless infrastructure-
 
 ```
 
